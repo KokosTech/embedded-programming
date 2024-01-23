@@ -248,5 +248,13 @@ dunno shit
 
 ### With Drivers
 
+inv LT (Lamp Test) - selects every segmet
+
+inv BI (Blank Input) - stops every segment 
+
+inv LE (Latch Enable) - show input
+
+![image-20240123130945726](./assets/image-20240123130945726.png)
+
 ## Shift Registers
 
